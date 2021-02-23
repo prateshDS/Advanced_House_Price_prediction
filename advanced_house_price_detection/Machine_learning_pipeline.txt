@@ -1,0 +1,27 @@
+All the lifecycle in a data science projects.
+Machine learning Pipe line
+1. Data analysis
+2. Feature engineering
+3. Feature Selection
+4. Model Building
+5. Model Deployment
+
+
+q. Advantage of creating Machine learning pipeline?
+Consideing Data science lifecycle, Each and every lifecyle can run independently.
+one file 
+
+
+Project: Advanced House price detection
+
+******Data Analysis
+Missing values
+All the Numerical variable
+Distribution of the numerical variables
+categorical variables
+cardinality of categorical variables
+outliers
+relationship between independent and dependent feature (SalePrice)
+
+
+Monotic its a term where line continuesly increasing Curve
